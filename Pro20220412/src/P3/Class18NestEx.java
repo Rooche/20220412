@@ -45,4 +45,3 @@ public class Class18NestEx {
 		}
 	}
 
-}
